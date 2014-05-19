@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gui/weight"
+	"$translucent" 1
+}

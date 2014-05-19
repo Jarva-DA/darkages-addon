@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/darkages/coin_diff"
+	"$bumpmap" "models/darkages/coin_normal"
+}

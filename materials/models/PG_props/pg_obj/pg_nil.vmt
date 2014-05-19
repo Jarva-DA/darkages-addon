@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/PG_props\pg_obj/pg_nil"
+	"$model" "1"
+	"$translucent" "1"
+}

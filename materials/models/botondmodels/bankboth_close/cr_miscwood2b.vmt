@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "cs_italy/cr_miscwood2b"
+	"$surfaceprop" "wood"
+}

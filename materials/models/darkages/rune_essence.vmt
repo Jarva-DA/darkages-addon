@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/darkages/rune_essence"
+	"$translucent" 1
+}

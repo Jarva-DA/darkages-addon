@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gui/menu/quickmenu_background"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/darkages/market/marketstand_cloth01"
+	"$bumpmap" "models/darkages/market/marketstand_cloth01_bump"
+	"$alphatest" 1
+	"$nocull" 1
+}
