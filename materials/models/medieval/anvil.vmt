@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  "models/medieval/anvil"
+	"$bumpmap"		"models/medieval/anvil_n"
+	"$model" 1
+}
+

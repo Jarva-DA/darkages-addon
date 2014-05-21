@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_forest/pg_birch_branch"
+	"$model" "1"
+	"$alphatest" "1"
+	//"$translucent" "1"
+	"$nocull" "1"
+	"$halflambert" "1"	
+
+
+
+}

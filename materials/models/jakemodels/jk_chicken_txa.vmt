@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jakemodels/jk_chicken_txa"
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+
+}

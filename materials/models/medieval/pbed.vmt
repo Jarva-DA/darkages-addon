@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  "models/medieval/pbed"
+	"$bumpmap"		"models/medieval/pbed_n"
+	"$model" 1
+}
+

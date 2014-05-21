@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gui/map/icon_2_32"
+	"$translucent" 1
+}

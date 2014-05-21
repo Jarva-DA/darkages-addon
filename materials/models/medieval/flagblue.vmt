@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  "models/medieval/flagblue"
+	"$nocull"		1
+	"$model" 		1
+}
+

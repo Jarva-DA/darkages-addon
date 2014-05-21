@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  "models/medieval/seedling"
+	"$alphatest"	1
+	"$nocull"		1
+	"$model" 		1
+}
+
