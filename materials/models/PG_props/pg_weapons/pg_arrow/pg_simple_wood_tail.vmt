@@ -1,9 +1,0 @@
-"vertexlitgeneric"
-{
-	"$baseTexture" "models\PG_props\pg_weapons/pg_arrow/pg_simple_wood_tail"
-	"$model" "1"
-	"$alphatest" "1"
-	"$nocull" "1"
-	"$halflambert" "1"	
-
-}

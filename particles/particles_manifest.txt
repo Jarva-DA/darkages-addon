@@ -1,5 +1,0 @@
-particles_manifest
-{
-   "file"   "particles/water.pcf"
-   "file"   "particles/tourchflame.pcf"
-}

@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture"  "models/medieval/lantern"
-	"$bumpmap"		"models/medieval/lantern_n"
-	"$alphatest"	1
-	"$nocull"		1
-	"$model" 		1
-}
-

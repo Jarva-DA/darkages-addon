@@ -1,5 +1,0 @@
-"vertexlitgeneric" {
-    	"$basetexture" "gm_forest\oakleaf"
-	"$alphatest" 1
-    	"$model" "1"
-}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/maps/stenesforest/nature/water_canals03_-786_692_-191.vmt"
-	"insert"
-	{
-		"$waterdepth"		"115"
-	}
-}

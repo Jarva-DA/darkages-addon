@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "gui/menu/map"
-	"$translucent" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}

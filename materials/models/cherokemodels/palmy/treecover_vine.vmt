@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/cherokemodels/palmy/treecover_vine"
-"$surfaceprop" "wood"
-"$alphatest" 1
-"$model" 1
-}
